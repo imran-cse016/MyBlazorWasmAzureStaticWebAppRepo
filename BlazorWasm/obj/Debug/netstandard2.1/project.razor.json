@@ -41,39 +41,6 @@
         }
       },
       {
-        "HashCode": -66836448,
-        "Kind": "Components.Component",
-        "Name": "BlazorWasm.Pages.Counter",
-        "AssemblyName": "BlazorWasm",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "Counter"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "BlazorWasm.Pages.Counter"
-        }
-      },
-      {
-        "HashCode": 340716389,
-        "Kind": "Components.Component",
-        "Name": "BlazorWasm.Pages.Counter",
-        "AssemblyName": "BlazorWasm",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "BlazorWasm.Pages.Counter"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "BlazorWasm.Pages.Counter",
-          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
-        }
-      },
-      {
         "HashCode": -1226021968,
         "Kind": "Components.Component",
         "Name": "BlazorWasm.Pages.FetchData",
@@ -136,6 +103,39 @@
         "Metadata": {
           "Runtime.Name": "Components.IComponent",
           "Common.TypeName": "BlazorWasm.Pages.Index",
+          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
+        }
+      },
+      {
+        "HashCode": -66836448,
+        "Kind": "Components.Component",
+        "Name": "BlazorWasm.Pages.Counter",
+        "AssemblyName": "BlazorWasm",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "Counter"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "BlazorWasm.Pages.Counter"
+        }
+      },
+      {
+        "HashCode": 340716389,
+        "Kind": "Components.Component",
+        "Name": "BlazorWasm.Pages.Counter",
+        "AssemblyName": "BlazorWasm",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "BlazorWasm.Pages.Counter"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "BlazorWasm.Pages.Counter",
           "Components.NameMatch": "Components.FullyQualifiedNameMatch"
         }
       },
