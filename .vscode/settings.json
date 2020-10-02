@@ -1,5 +1,5 @@
 {
-    "staticWebApps.appSubpath": "MyBlazorWasmAzureStaticWebApp",
+    "staticWebApps.appSubpath": "BlazorWasm",
     "staticWebApps.apiSubpath": "/",
     "staticWebApps.appArtifactSubpath": "wwwroot"
 }
