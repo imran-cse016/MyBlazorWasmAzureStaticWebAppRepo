@@ -50,8 +50,8 @@ else
 
  protected override async Task OnInitializedAsync()
  {
-       // azureFunctionHttpTrigger = await Http.GetFromJsonAsync<string>("https://myazurefunctionapps.azurewebsites.net/api/HttpTriggerFunctionServiceGetData");
-            bikeModel = await Http.GetFromJsonAsync<IEnumerable<BikeModel>>("https://myazurefunctionapps.azurewebsites.net/api/HttpTriggerFunctionBikeService");
+    azureFunctionHttpTrigger = await Http.GetStringAsync("https://myazurefunctionapps.azurewebsites.net/api/HttpTriggerFunctionServiceGetData");
+    bikeModel = await Http.GetFromJsonAsync<IEnumerable<BikeModel>>("https://myazurefunctionapps.azurewebsites.net/api/HttpTriggerFunctionBikeService");
  }
 
      public class BikeModel
