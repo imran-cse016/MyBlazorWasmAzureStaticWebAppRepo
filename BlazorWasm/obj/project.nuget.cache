@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "g2VNDEpXXy3dhjtfkjV49ctexGcx9YAuoaODpM7UkqF565wbzJUYd2ANJHXRTvs+PXqlpgst3Yx4uKToT/5YPw==",
+  "dgSpecHash": "udS4XVWP03N9yFUXmat1x3VW/moGsviTpbzGYBMwlv2A3MkoERdBZAGL9vKhvFxdaqQmaE4tVWa/UqYetWDa3w==",
   "success": true,
   "projectFilePath": "C:\\IPGitHub\\Repos\\MyBlazorWasmAzureStaticWebAppRepo\\BlazorWasm\\BlazorWasm.csproj",
   "expectedPackageFiles": [

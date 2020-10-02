@@ -41,39 +41,6 @@
         }
       },
       {
-        "HashCode": -1226021968,
-        "Kind": "Components.Component",
-        "Name": "BlazorWasm.Pages.FetchData",
-        "AssemblyName": "BlazorWasm",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "FetchData"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "BlazorWasm.Pages.FetchData"
-        }
-      },
-      {
-        "HashCode": -204052502,
-        "Kind": "Components.Component",
-        "Name": "BlazorWasm.Pages.FetchData",
-        "AssemblyName": "BlazorWasm",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "BlazorWasm.Pages.FetchData"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "BlazorWasm.Pages.FetchData",
-          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
-        }
-      },
-      {
         "HashCode": -1489618449,
         "Kind": "Components.Component",
         "Name": "BlazorWasm.Pages.Index",
@@ -107,6 +74,39 @@
         }
       },
       {
+        "HashCode": -1226021968,
+        "Kind": "Components.Component",
+        "Name": "BlazorWasm.Pages.FetchData",
+        "AssemblyName": "BlazorWasm",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "FetchData"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "BlazorWasm.Pages.FetchData"
+        }
+      },
+      {
+        "HashCode": -204052502,
+        "Kind": "Components.Component",
+        "Name": "BlazorWasm.Pages.FetchData",
+        "AssemblyName": "BlazorWasm",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "BlazorWasm.Pages.FetchData"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "BlazorWasm.Pages.FetchData",
+          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
+        }
+      },
+      {
         "HashCode": -66836448,
         "Kind": "Components.Component",
         "Name": "BlazorWasm.Pages.Counter",
@@ -136,6 +136,59 @@
         "Metadata": {
           "Runtime.Name": "Components.IComponent",
           "Common.TypeName": "BlazorWasm.Pages.Counter",
+          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
+        }
+      },
+      {
+        "HashCode": -1858961554,
+        "Kind": "Components.Component",
+        "Name": "BlazorWasm.Shared.SurveyPrompt",
+        "AssemblyName": "BlazorWasm",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "SurveyPrompt"
+          }
+        ],
+        "BoundAttributes": [
+          {
+            "Kind": "Components.Component",
+            "Name": "Title",
+            "TypeName": "System.String",
+            "Metadata": {
+              "Common.PropertyName": "Title"
+            }
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "BlazorWasm.Shared.SurveyPrompt"
+        }
+      },
+      {
+        "HashCode": -1632193662,
+        "Kind": "Components.Component",
+        "Name": "BlazorWasm.Shared.SurveyPrompt",
+        "AssemblyName": "BlazorWasm",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "BlazorWasm.Shared.SurveyPrompt"
+          }
+        ],
+        "BoundAttributes": [
+          {
+            "Kind": "Components.Component",
+            "Name": "Title",
+            "TypeName": "System.String",
+            "Metadata": {
+              "Common.PropertyName": "Title"
+            }
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "BlazorWasm.Shared.SurveyPrompt",
           "Components.NameMatch": "Components.FullyQualifiedNameMatch"
         }
       },
@@ -265,59 +318,6 @@
         "Metadata": {
           "Runtime.Name": "Components.IComponent",
           "Common.TypeName": "BlazorWasm.Shared.NavMenu",
-          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
-        }
-      },
-      {
-        "HashCode": -1858961554,
-        "Kind": "Components.Component",
-        "Name": "BlazorWasm.Shared.SurveyPrompt",
-        "AssemblyName": "BlazorWasm",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "SurveyPrompt"
-          }
-        ],
-        "BoundAttributes": [
-          {
-            "Kind": "Components.Component",
-            "Name": "Title",
-            "TypeName": "System.String",
-            "Metadata": {
-              "Common.PropertyName": "Title"
-            }
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "BlazorWasm.Shared.SurveyPrompt"
-        }
-      },
-      {
-        "HashCode": -1632193662,
-        "Kind": "Components.Component",
-        "Name": "BlazorWasm.Shared.SurveyPrompt",
-        "AssemblyName": "BlazorWasm",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "BlazorWasm.Shared.SurveyPrompt"
-          }
-        ],
-        "BoundAttributes": [
-          {
-            "Kind": "Components.Component",
-            "Name": "Title",
-            "TypeName": "System.String",
-            "Metadata": {
-              "Common.PropertyName": "Title"
-            }
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "BlazorWasm.Shared.SurveyPrompt",
           "Components.NameMatch": "Components.FullyQualifiedNameMatch"
         }
       },
