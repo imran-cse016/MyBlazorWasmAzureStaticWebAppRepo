@@ -353,6 +353,8 @@ C:\IPGitHub\Repos\MyBlazorWasmAzureStaticWebAppRepo\BlazorWasm\obj\Debug\netstan
 C:\IPGitHub\Repos\MyBlazorWasmAzureStaticWebAppRepo\BlazorWasm\obj\Debug\netstandard2.1\staticwebassets\BlazorWasm.StaticWebAssets.xml
 C:\IPGitHub\Repos\MyBlazorWasmAzureStaticWebAppRepo\BlazorWasm\obj\Debug\netstandard2.1\BlazorWasm.dll
 C:\IPGitHub\Repos\MyBlazorWasmAzureStaticWebAppRepo\BlazorWasm\obj\Debug\netstandard2.1\BlazorWasm.pdb
-C:\IPGitHub\Repos\MyBlazorWasmAzureStaticWebAppRepo\BlazorWasm\obj\Debug\netstandard2.1\integrity\O5WnP-boBJ-Vqc43J6I2D8B0G_fp5ln-VPTQc_W-ZNA=.hash
-C:\IPGitHub\Repos\MyBlazorWasmAzureStaticWebAppRepo\BlazorWasm\obj\Debug\netstandard2.1\integrity\AQy1hOhv7gMfc1eKtuVcIM-qjyTHIu6doVVFA38934w=.hash
-C:\IPGitHub\Repos\MyBlazorWasmAzureStaticWebAppRepo\BlazorWasm\obj\Debug\netstandard2.1\integrity\-lmnqi6KI53lLw4IwIWv_ix1bPBEN7eYBFm9SECzYRo=.hash
+C:\IPGitHub\Repos\MyBlazorWasmAzureStaticWebAppRepo\BlazorWasm\obj\Debug\netstandard2.1\RazorDeclaration\Pages\AzureFuncion.razor.g.cs
+C:\IPGitHub\Repos\MyBlazorWasmAzureStaticWebAppRepo\BlazorWasm\obj\Debug\netstandard2.1\Razor\Pages\AzureFuncion.razor.g.cs
+C:\IPGitHub\Repos\MyBlazorWasmAzureStaticWebAppRepo\BlazorWasm\obj\Debug\netstandard2.1\integrity\6FFdarvtz1ElVbc0N7FxSF1hjq5MJf42MTgNEaoPAck=.hash
+C:\IPGitHub\Repos\MyBlazorWasmAzureStaticWebAppRepo\BlazorWasm\obj\Debug\netstandard2.1\integrity\vx5NXTeH_769GWAyoqEqVCgvLiTW5_eVX2fR0NI-z6E=.hash
+C:\IPGitHub\Repos\MyBlazorWasmAzureStaticWebAppRepo\BlazorWasm\obj\Debug\netstandard2.1\integrity\yt0-ReS0Clt4rR8Rct_atxI0JSMT0qeO_bzwwPxBlX0=.hash

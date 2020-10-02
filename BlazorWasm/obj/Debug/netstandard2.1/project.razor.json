@@ -74,6 +74,39 @@
         }
       },
       {
+        "HashCode": -66836448,
+        "Kind": "Components.Component",
+        "Name": "BlazorWasm.Pages.Counter",
+        "AssemblyName": "BlazorWasm",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "Counter"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "BlazorWasm.Pages.Counter"
+        }
+      },
+      {
+        "HashCode": 340716389,
+        "Kind": "Components.Component",
+        "Name": "BlazorWasm.Pages.Counter",
+        "AssemblyName": "BlazorWasm",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "BlazorWasm.Pages.Counter"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "BlazorWasm.Pages.Counter",
+          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
+        }
+      },
+      {
         "HashCode": -1226021968,
         "Kind": "Components.Component",
         "Name": "BlazorWasm.Pages.FetchData",
@@ -107,35 +140,35 @@
         }
       },
       {
-        "HashCode": -66836448,
+        "HashCode": 895628984,
         "Kind": "Components.Component",
-        "Name": "BlazorWasm.Pages.Counter",
+        "Name": "BlazorWasm.Pages.AzureFuncion",
         "AssemblyName": "BlazorWasm",
         "CaseSensitive": true,
         "TagMatchingRules": [
           {
-            "TagName": "Counter"
+            "TagName": "AzureFuncion"
           }
         ],
         "Metadata": {
           "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "BlazorWasm.Pages.Counter"
+          "Common.TypeName": "BlazorWasm.Pages.AzureFuncion"
         }
       },
       {
-        "HashCode": 340716389,
+        "HashCode": -618784849,
         "Kind": "Components.Component",
-        "Name": "BlazorWasm.Pages.Counter",
+        "Name": "BlazorWasm.Pages.AzureFuncion",
         "AssemblyName": "BlazorWasm",
         "CaseSensitive": true,
         "TagMatchingRules": [
           {
-            "TagName": "BlazorWasm.Pages.Counter"
+            "TagName": "BlazorWasm.Pages.AzureFuncion"
           }
         ],
         "Metadata": {
           "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "BlazorWasm.Pages.Counter",
+          "Common.TypeName": "BlazorWasm.Pages.AzureFuncion",
           "Components.NameMatch": "Components.FullyQualifiedNameMatch"
         }
       },
@@ -11784,6 +11817,11 @@
     {
       "FilePath": "c:\\IPGitHub\\Repos\\MyBlazorWasmAzureStaticWebAppRepo\\BlazorWasm\\Pages\\Counter.razor",
       "TargetPath": "Pages\\Counter.razor",
+      "FileKind": "component"
+    },
+    {
+      "FilePath": "c:\\IPGitHub\\Repos\\MyBlazorWasmAzureStaticWebAppRepo\\BlazorWasm\\Pages\\AzureFuncion.razor",
+      "TargetPath": "Pages\\AzureFuncion.razor",
       "FileKind": "component"
     },
     {

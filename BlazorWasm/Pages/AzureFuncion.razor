@@ -1,0 +1,67 @@
+@page "/azure-function"
+@inject HttpClient Http
+
+<h1>@pageHeadder</h1>
+
+@if (azureFunctionHttpTrigger == string.Empty)
+{
+  <h3>Loading azure function http trigger</h3>    
+}
+else
+{
+  <h3>Azure function http trigger - @azureFunctionHttpTrigger</h3>
+}
+
+@if (bikeModel == null)
+{
+    <p><em>Loading...</em></p>
+}
+else
+{
+    <div class="container">
+        <div class="row">
+            @foreach (var bike in bikeModel)
+            {
+
+                <div class="col-sm-4">
+                    <div class="card" style="width: 18rem;">
+                        <img class="card-img-top" src="@bike.ImageUri" alt="@bike.Title">
+                        <div class="card-body">
+                            <h5 class="card-title">@bike.Title</h5>
+                            <p class="card-text">@bike.Price</p>
+                            <a href="#" class="btn btn-primary">More Details</a>
+                        </div>
+                    </div>
+                </div>
+
+
+            }
+        </div>
+
+    </div>
+}
+
+
+@code{
+ private string  pageHeadder = "Azure Functions";
+ private string azureFunctionHttpTrigger = string.Empty;
+
+  private IEnumerable<BikeModel> bikeModel;
+
+ protected override async Task OnInitializedAsync()
+ {
+       // azureFunctionHttpTrigger = await Http.GetFromJsonAsync<string>("https://myazurefunctionapps.azurewebsites.net/api/HttpTriggerFunctionServiceGetData");
+            bikeModel = await Http.GetFromJsonAsync<IEnumerable<BikeModel>>("https://myazurefunctionapps.azurewebsites.net/api/HttpTriggerFunctionBikeService");
+ }
+
+     public class BikeModel
+    {
+        public int BikeId { get; set; }
+        public string Title { get; set; }
+        public string Price { get; set; }
+        public string ImageUri { get; set; }
+        public DateTime DateCreated { get; set; }
+        public DateTime DateModified { get; set; }
+    }
+
+}
