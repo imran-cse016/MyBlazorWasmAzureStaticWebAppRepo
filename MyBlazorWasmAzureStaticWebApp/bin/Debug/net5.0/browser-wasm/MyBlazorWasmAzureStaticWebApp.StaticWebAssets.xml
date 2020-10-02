@@ -1,0 +1,4 @@
+﻿<StaticWebAssets Version="1.0">
+  <ContentRoot BasePath="/" Path="C:\IPGitHub\Repos\MyBlazorWasmAzureStaticWebAppRepo\MyBlazorWasmAzureStaticWebApp\bin\Debug\net5.0\browser-wasm\wwwroot\" />
+  <ContentRoot BasePath="/" Path="C:\IPGitHub\Repos\MyBlazorWasmAzureStaticWebAppRepo\MyBlazorWasmAzureStaticWebApp\obj\Debug\net5.0\browser-wasm\scopedcss\" />
+</StaticWebAssets>
